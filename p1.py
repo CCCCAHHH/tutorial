@@ -1,0 +1,1 @@
+print("hello thank u thank u very much！！！")
